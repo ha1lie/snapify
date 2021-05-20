@@ -54,21 +54,11 @@
 			<key>cellClass</key>
 			<string>HBTwitterCell</string>
 			<key>label</key>
-			<string>Check out my Twitter</string>
+			<string>CHECK OUT MY TWITTER</string>
 			<key>user</key>
 			<string>HaxHallie</string>
 			<key>userID</key>
 			<string>1366448821400723463</string>
-		</dict>
-		<dict>
-			<key>cellClass</key>
-			<string>HBLinkTableCell</string>
-			<key>label</key>
-			<string>all of iOS Development Discord Server</string>
-			<key>subtitle</key>
-			<string>Without their help, this tweak wouldn&apos;t exist</string>
-			<key>url</key>
-			<string>https://discord.gg/WWbjTum</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -76,17 +66,17 @@
 			<key>label</key>
 			<string>THIS TWEAK IS OPENSOURCE</string>
 			<key>footerText</key>
-			<string>You can check out how it was done on my GitHub, along with checking out my other work!</string>
+			<string>YOU CAN CHECK OUT HOW I DID IT, AND SEE MY OTHER WORK</string>
 		</dict>
 		<dict>
 			<key>cellClass</key>
 			<string>HBLinkTableCell</string>
 			<key>label</key>
-			<string>Snapify on GitHub</string>
+			<string>SNAPIFY ON GITHUB</string>
 			<key>subtitle</key>
-			<string>Checkout how I did it</string>
+			<string>CHECKOUT HOW I DID IT</string>
 			<key>url</key>
-			<string>https://discord.gg/WWbjTum</string>
+			<string>https://github.com/HallieBot/snapify</string>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -94,20 +84,20 @@
 			<key>label</key>
 			<string>IF YOU LIKE THIS TWEAK</string>
 			<key>footerText</key>
-			<string>Your contribution helps me continue putting time into making quality tweaks for the community!</string>
+			<string>PURCHASING WAGGLETUNES HELPS ME CONTINUE TO PUT TIME INTO TWEAKS FOR THE COMMUNITY</string>
 		</dict>
 		<dict>
 			<key>cellClass</key>
 			<string>HBLinkTableCell</string>
 			<key>label</key>
-			<string>Download WaggleTunes</string>
+			<string>DOWNLOAD WAGGLETUNES</string>
 			<key>subtitle</key>
-			<string>A system-wide music controller for any setup!</string>
+			<string>A SYSTEM-WIDE MUSIC CONTROLLER FOR ANY SETUP</string>
 			<key>url</key>
 			<string>https://repo.packix.com/package/com.halliehax.waggletunes/</string>
 		</dict>
 	</array>
 	<key>title</key>
-	<string>Snapify</string>
+	<string>SNAPIFY</string>
 </dict>
 </plist>

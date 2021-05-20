@@ -31,11 +31,11 @@ static HBPreferences *preferences;
 
 -(void)viewDidLoad {
 	[super viewDidLoad];
-	self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc] initWithTitle:@"Kill Messages" style:UIBarButtonItemStyleDone target:self action:@selector(respring)];
+	self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc] initWithTitle:@"KILL MESSAGES" style:UIBarButtonItemStyleDone target:self action:@selector(respring)];
     self.navigationItem.rightBarButtonItem.tintColor = [UIColor colorWithRed:(10.0/255.0) green:(132.0/255.0) blue:(255.0/255.0) alpha:1.0];
 
 	if (!self.navigationItem.titleView) {
-		SNPAnimatedTitleView *titleView = [[SNPAnimatedTitleView alloc] initWithTitle:@"Snapify" minimumScrollOffsetRequired:-150];
+		SNPAnimatedTitleView *titleView = [[SNPAnimatedTitleView alloc] initWithTitle:@"SNAPIFY" minimumScrollOffsetRequired:-150];
 		self.navigationItem.titleView = titleView;
 	}
 }
