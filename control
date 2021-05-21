@@ -1,6 +1,6 @@
 Package: com.halliehax.snapify
 Name: Snapify
-Version: 1.0RC
+Version: 1.0
 Architecture: iphoneos-arm
 Description: Send button for messages just like Snapchat!
 Maintainer: HallieHax
